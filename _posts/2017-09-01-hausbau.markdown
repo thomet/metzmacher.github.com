@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Hausbau"
+img: 2017-hausbau.jpg
+date: "2017-09-01 13:37:50 +0200"
+tag: [Lifestyle]
+---
